@@ -4,7 +4,7 @@ LangID is a real-time, AI-powered multilingual speech and text intelligence syst
 
 Built with a **Flask + Google Gemini API** backend and a single-page, no-framework **HTML/CSS/JavaScript** frontend.
 
-[LANGID](https://naramalapavanakumar.github.io/LANGID/)
+🌐 **Live Project:** [LangID](https://naramalapavanakumar.github.io/LANGID/)
 
 ## ✨ Features
 
