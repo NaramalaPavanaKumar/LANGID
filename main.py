@@ -10,7 +10,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 # ── Config ────────────────────────────────────────────────────────────────────
-GEMINI_KEY   = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6LwppSsFI2XyCuG5rc9AQSvHZiBQpboy8rYrvROCRuR9w")
+GEMINI_KEY   = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6L5Qc2qq4cvsYEXOQ40erlALd0D9sxtV4UuKvHDak495Q")
 GEMINI_MODEL = "gemini-flash-latest"
 GEMINI_URL   = (
     f"https://generativelanguage.googleapis.com/v1beta/models/"
